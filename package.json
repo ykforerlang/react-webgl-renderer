@@ -1,0 +1,28 @@
+{
+  "name": "react-webgl-renderer",
+  "version": "1.0.0",
+  "description": "react + webgl, cool!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykforerlang/react-webgl-renderer.git"
+  },
+  "keywords": [
+    "react",
+    "webgl",
+    "render-dom"
+  ],
+  "author": "ykforerlang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ykforerlang/react-webgl-renderer/issues"
+  },
+  "homepage": "https://github.com/ykforerlang/react-webgl-renderer#readme",
+  "dependencies": {
+    "fbjs": "^0.8.16",
+    "react-reconciler": "^0.7.0"
+  }
+}
